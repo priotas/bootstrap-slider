@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-slider",
-  "version": "10.0.0",
+  "name": "@priotas/bootstrap-slider",
+  "version": "20.0.0",
   "description": "Slider view component for Twitter Bootstrap.",
   "main": "dist/bootstrap-slider.js",
   "style": "dist/css/bootstrap-slider.css",
@@ -13,7 +13,7 @@
   "homepage": "http://github.com/seiyria/bootstrap-slider",
   "repository": {
     "type": "git",
-    "url": "git://github.com/seiyria/bootstrap-slider.git"
+    "url": "git://github.com/priotas/bootstrap-slider.git"
   },
   "bugs": {
     "url": "http://github.com/seiyria/bootstrap-slider/issues"
@@ -39,7 +39,6 @@
   ],
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "67eb8fe3c26205efc94ae95b3ef37a469eef0b81",
   "dependencies": {},
   "engine": {},
   "devDependencies": {
